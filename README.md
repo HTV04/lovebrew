@@ -3,13 +3,7 @@
 ## GitHub
 To get the latest version from Github, just run
 ```
-sudo pip3 install -U git+git://github.com/TurtleP/lovebrew.git
-```
-
-## PyPi
-To get the latest version from PyPi, just run
-```
-sudo pip3 install lovebrew
+sudo pip3 install -U git+git://github.com/HTV04/lovebrew-python3.git
 ```
 and you should be able to run `lovebrew -h`!
 
